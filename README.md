@@ -26,6 +26,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.
   - Focus Areas: Machine Intelligence, Algorithmic Foundations
 
 ### 🤝 Let's Connect
-
 - [LinkedIn](https://www.linkedin.com/in/maxnickell)
 - [Email](mailto:maxanickell@gmail.com)
