@@ -13,7 +13,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrai
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
 
-### 💼 Experience
+### 💼 Experience 
 - **Co-Founder/CTO of Zibt (Apr 2024 – Present):**
 - **Software Engineering Intern at DecisionRx (May 2024 – Aug 2024):**
 - **Software Engineering Intern at hc1 (May 2023 – Aug 2023):**
