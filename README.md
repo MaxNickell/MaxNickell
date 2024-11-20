@@ -27,4 +27,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.
 ### 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/maxnickell)
 - [Email](mailto:maxanickell@gmail.com)
-  
+   
