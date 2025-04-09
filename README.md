@@ -1,4 +1,4 @@
-# Hi there, I'm Max Nickell! 👋 
+# Hi there, I'm Max Nickell! 👋  
 
 ### 🚀 About Me 
 
