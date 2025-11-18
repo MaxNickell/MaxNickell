@@ -1,6 +1,6 @@
 # Hi there, I'm Max Nickell! 👋
 
-### 🚀 About Me
+### 🚀 About Me 
 
 I'm Max Nickell, a BS/MS Computer Science student at Purdue University graduating in December 2025 (BS) and December 2026 (MS). My academic focus is on Machine Intelligence and Algorithms, with minors in Mathematics and Management.
 
