@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm Max Nickell, a BS/MS Computer Science student at Purdue University graduating in December 2025 (BS) and December 2026 (MS). My academic focus is on Machine Intelligence and Algorithms, with minors in Mathematics and Management.
+I'm Max Nickell, a MS Computer Science student at Purdue University graduating in December 2026. My academic focus is on Machine Learning and Computer Vision with a minor in Mathematics.
 
 I’m passionate about building AI-powered systems that blend intelligent automation with thoughtful user experience—eliminating mindless tasks while encouraging user trust and adoption. 
 
@@ -24,10 +24,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.
 
 ### 💼 Experience
 
-- **Co-Founder / CTO, Zibt (Apr 2024 – Present)**
 - **AI Engineer Intern, Proteus Capital (May 2025 – Aug 2025)**
 - **Software Engineering Intern, DecisionRx (May 2024 – Aug 2024)**
-- **LLM Code Generation Trainer, Outlier (Feb 2024 – May 2025)**
+- **LLM Code Generation Annotator, Outlier (Feb 2024 – May 2025)**
 - **Software Engineering Intern, hc1 (May 2023 – Aug 2023)**
 
 ---
@@ -35,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.
 ### 📚 Education
 
 - **Purdue University, West Lafayette, IN**  
-  *BS/MS in Computer Science*  
+  *BS in Computer Science*  
   Concentration in Machine Intelligence | Minors in Mathematics and Management
 
 ---
@@ -44,5 +43,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.
 
 - [LinkedIn](https://www.linkedin.com/in/maxnickell)
 - [Email](mailto:maxanickell@gmail.com)
-- [App Store – Zibt](https://apps.apple.com/us/app/zibt/id6744043712)
-- [Website – Zibt](https://www.zibtapp.com)
