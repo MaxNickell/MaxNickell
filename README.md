@@ -6,12 +6,6 @@ I'm Max Nickell, a MS Computer Science student at Purdue University graduating i
 
 I’m passionate about building AI-powered systems that blend intelligent automation with thoughtful user experience—eliminating mindless tasks while encouraging user trust and adoption. 
 
-🔭 **Currently Working On:** Leading development of Zibt, a smart alarm app now live on the App Store. 
-
-🌱 **Currently Learning:** Natural language processing, AI agents, techniques in computer vision, and statistical machine learning.
-
-🧪 **Research:** Conducting research at Purdue on visual reasoning and computer vision, developing a novel multimodal pipeline.
-
 ---
 
 ### 💻 Technical Skills 
@@ -32,10 +26,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.
 ---
 
 ### 📚 Education
-
 - **Purdue University, West Lafayette, IN**  
-  *BS in Computer Science*  
-  Concentration in Machine Intelligence | Minors in Mathematics and Management
+  *MS in Computer Science* - December 2026
+  Focus in Computer Vision
+  
+- **Purdue University, West Lafayette, IN**  
+  *BS in Computer Science* - December 2025
+  Concentration in Machine Learning | Minor in Mathematics
 
 ---
 
