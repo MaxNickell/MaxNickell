@@ -28,10 +28,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.
 ### 📚 Education
 - **Purdue University, West Lafayette, IN**  
   *MS in Computer Science* - December 2026
+  
   Focus in Computer Vision
   
 - **Purdue University, West Lafayette, IN**  
   *BS in Computer Science* - December 2025
+  
   Concentration in Machine Learning | Minor in Mathematics
 
 ---
