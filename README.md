@@ -1,6 +1,6 @@
 # Max Nickell
 
-MS Computer Science student at Purdue University.
+MS in Computer Science at Purdue University.
 
 **Interests:** Computer Vision, Reasoning in LLMs, Recommendation Systems
 
