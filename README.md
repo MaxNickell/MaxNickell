@@ -8,7 +8,7 @@ MS in Computer Science at Purdue University.
 
 ### Experience
 
-- **Machine Learning Engineer Intern**, Pinterest *(May 2026 – Present)*
+- **Machine Learning Engineer Intern**, Pinterest *(May 2026 – Aug 2026)*
 - **AI Engineer Intern**, Proteus Capital *(May 2025 – Aug 2025)*
 - **Software Engineer Intern**, DecisionRx *(May 2024 – Aug 2024)*
 - **Software Engineer Intern**, hc1 *(May 2023 – Aug 2023)*
